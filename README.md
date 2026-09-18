@@ -15,7 +15,7 @@ I build data-driven and AI-powered products for financial services, starting fro
 
 PGDM (Big Data Analytics) student at **FORE School of Management** (2025–27), with a **B.E. in Computer Science** from M.B.M. University (88%), so I can both build the product and make the business case for it.
 
-**Product Management Intern at First Citizens India** (the India operations of First Citizens Bank, which acquired Silicon Valley Bank), where I [one line on what you worked on, e.g. "worked with the digital banking product team on …"] and [one result or deliverable, with a number if possible].
+**Product Management Intern at First Citizens India** (the India operations of First Citizens Bank, which acquired Silicon Valley Bank)
 
 Earlier, as a **Power BI Intern at Celebal Technologies**, I analysed 100,000+ sales records and built dashboards that improved data accessibility by 25%. As a **Marketing Intern at SUPYAR®**, I ran market research with 500+ customers and a test campaign that lifted brand recall by 35% among urban youth.
 
